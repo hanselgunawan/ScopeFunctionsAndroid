@@ -1,3 +1,5 @@
+//https://www.journaldev.com/19467/kotlin-let-run-also-apply-with
+
 fun main(args: Array<String>){
   val firstPerson = Person("Hansel", 25, "QA")
   val secondPerson = Person("Andy", 22, "Finance Advisor")
